@@ -18,7 +18,7 @@ Funções que o sistema permite:</br>
 
 ## Instruções para executar localmente
 
-- Fazer o git clone do projeto 
+- Fazer o git clone do projeto na pasta C:\laragon\www
 - Ter o laragon baixado https://github.com/leokhoa/laragon/releases/download/8.0.0/laragon-wamp.exe
 - Clickar no botão Play
 - Visualizar usando o botão Web
